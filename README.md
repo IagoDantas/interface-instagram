@@ -1,6 +1,6 @@
 # interface-instagram
 
-Interface do instagram responsiva, utilizando Flex-Box, feito no módulo da DIO.
+Responsive instagram interface, using Flex-Box, made in DIO module.
 
 ![image](https://user-images.githubusercontent.com/82843173/181444988-7dbb40e1-f56d-44c4-ac41-be65bb86eebc.png)
 
